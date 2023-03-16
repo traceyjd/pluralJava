@@ -11,6 +11,7 @@ public class noteOps {
            You can override precedence by using parenthesis () content of parenthesis is done before the rest
            You can also have nested parenthesis evaluated from inside out
            Please take advantage of parenthesis
+           Innermost parenthesis will be done first then the outer parenthesis next and so on
            */
         int valA = 21;
         int valB = 6;
